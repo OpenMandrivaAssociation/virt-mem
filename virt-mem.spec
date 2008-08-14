@@ -18,6 +18,7 @@ BuildRequires:  ocaml-libvirt-devel
 BuildRequires:  ocaml-xml-light-devel
 BuildRequires:  ocaml-bitstring-devel
 BuildRequires:  ocaml-gettext-devel
+BuildRequires:  ocaml-pcre-devel
 BuildRoot:      %{_tmppath}/%{name}-%{version}
 
 %description
