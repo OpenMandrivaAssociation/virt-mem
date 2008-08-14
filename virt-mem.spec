@@ -11,6 +11,7 @@ Group:      Graphical desktop/GNOME
 URL:        http://et.redhat.com/~rjones/virt-mem/
 Source:     http://et.redhat.com/~rjones/virt-mem/files/%{name}-%{version}.tar.gz
 BuildRequires:  ocaml
+BuildRequires:  camlp4
 BuildRequires:  findlib
 BuildRequires:  ocaml-extlib-devel
 BuildRequires:  ocaml-libvirt-devel
