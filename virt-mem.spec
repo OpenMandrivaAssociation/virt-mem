@@ -19,6 +19,7 @@ BuildRequires:  ocaml-xml-light-devel
 BuildRequires:  ocaml-bitstring-devel
 BuildRequires:  ocaml-gettext-devel
 BuildRequires:  ocaml-pcre-devel
+BuildRequires:  perl-doc
 BuildRoot:      %{_tmppath}/%{name}-%{version}
 
 %description
