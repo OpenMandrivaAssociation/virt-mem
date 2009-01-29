@@ -12,7 +12,7 @@ URL:        http://et.redhat.com/~rjones/virt-mem/
 Source:     http://et.redhat.com/~rjones/virt-mem/files/%{name}-%{version}.tar.gz
 BuildRequires:  ocaml
 BuildRequires:  camlp4
-BuildRequires:  findlib
+BuildRequires:  ocaml-findlib
 BuildRequires:  ocaml-extlib-devel
 BuildRequires:  ocaml-libvirt-devel
 BuildRequires:  ocaml-xml-light-devel
