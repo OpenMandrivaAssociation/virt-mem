@@ -8,7 +8,7 @@ Release:	%{release}
 Summary:    Virtual Machine Viewer
 License:    GPL
 Group:      Graphical desktop/GNOME
-URL:        http://et.redhat.com/~rjones/virt-mem/
+URL:        https://et.redhat.com/~rjones/virt-mem/
 Source:     http://et.redhat.com/~rjones/virt-mem/files/%{name}-%{version}.tar.gz
 BuildRequires:  ocaml
 BuildRequires:  camlp4
